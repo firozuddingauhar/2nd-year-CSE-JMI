@@ -1,0 +1,69 @@
+write c programs in a single file
+
+1. to find the number of vowels in each of the 5 strings stored in two dimensional arrays, taken from the user.
+2. to sort 10 city names stored in two dimensional arrays, taken from the user.
+3. to read and display a 2D array of strings in C language.
+4. to search a string in the list of strings. 5. Suppose we have a list of email addresses, check whether all email addresses have '@'in it. Print the odd email out.
+6. to print the strings which are palindrome in the list of strings.
+7. From the list of IP addresses, check whether all ip addresses are valid.
+8. Given a list of words followed by two words, the task is to find the minimum distance between the given two words in the list of words. (Example: s = {"the","quick","brown", "fox","quick"} word1 = "the", word2 = "fox", OUTPUT: 1)
+9. that asks the user to enter a username. If the username entered is one of the names in the list then the user is allowed to calculate the factorial of a number. Otherwise, an error message is displayed
+10. Create an authentication system. It should be menu driven.
+
+
+1. Write a program which takes the month number as an input and display number of days in that month.
+2. Write a menu driven program with the following options:
+a. Addition
+b. Subtraction
+c. Multiplication
+d. Division
+e. Exit
+3. Write a program which takes the day number of a week and displays a
+unique greeting message for the day. 4. Write a menu driven program with the following options:
+a. Check whether a given set of three numbers are lengths of an isosceles triangle or not
+b. Check whether a given set of three numbers are lengths of sides of a right angled triangle or not
+c. Check whether a given set of three numbers are equilateral triangle or not
+d. Exit
+5. Convert the following if-else if construct into switch case:
+if(var == 1) System.out.printin("good"):
+else if(var == 2)
+System.out.println("better");
+else if(var == 3)
+System.out.println("best");
+else System.out.println("invalid");
+6. Program to check whether a year is a leap year or not. Using switch statement
+7. Program to take the value from the user as input electricity unit charges and calculate total electricity bill according to the given condition. Using the switch statement.
+For the first 50 units Rs. 0.50/unit
+For the next 100 units Rs. 0.75/unit
+For the next 100 units Rs. 1.20/unit
+For units above 250 Rs. 1.50/unit
+An additional surcharge of 20% is added to the bill.
+8. Program to convert a positive number into a negative number and negative number into a positive number using a switch statement.
+9 Program to Convert even number into its upper nearest odd number Switch Statement.
+10 C program to find all roots of a quadratic equation using switch case
+
+
+
+1. Define a function to input variable length string and store it in an array without memory wastage.
+2. Write a program to ask the user to input a number of data values he would like to enter then create an array dynamically to accommodate the data values. Now take the input from the user and display the average of data values.
+3. Write a program to calculate the sum of n numbers entered by the user using malloc and free
+4. Write a program to input and print text using dynamic memory allocation.
+5. Write a program to read a one dimensional array, print sum of all elements along with inputted array elements using dynamic memory allocation.
+6. Write a program in C to find the largest element using Dynamic Memory Allocation.
+7. Write a program to demonstrate memory leak in C.
+8. Write a program to demonstrate dangling pointers in C.
+9. Write a program to allocate memory dynamically of the size in bytes entered by the user. Also handle the case when memory allocation is failed.
+10. Find out the maximum and minimum from an array using dynamic memory allocation in C.
+
+
+
+1. Define a structure Employee with member variables id, name, salary
+2. Write a function to take input employee data from the user. [Refer structure from question 1]
+3. Write a function to display employee data. [ Refer structure from question 1]
+4. Write a function to find the highest salary employee from a given array of 10 employees. [ Refer structure from question 1] 
+5. Write a function to sort employees according to their salaries [ refer structure from question 1] 
+6. Write a function to sort employees according to their names [refer structure from question 1]
+7. Write a program to calculate the difference between two time periods.
+8. Write a program to store information of 10 students and display them using structure. 
+9. Write a program to store information of n students and display them using structure program 
+10. Write a program to enter the marks of 5 students in Chemistry, Mathematics and Physics (each out of 100) using a structure named Marks having elements roll no.. name, chem_marks, maths_marks and phy_marks and then display the percentage of each student.

@@ -1,0 +1,9 @@
+touch temp
+for a in $*;do
+	if [ $a -s gt 512 ];then
+		cat<$a>>temp
+	fi
+done
+sort temp
+cat temp
+rm temp

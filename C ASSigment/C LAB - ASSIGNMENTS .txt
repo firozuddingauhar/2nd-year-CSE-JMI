@@ -1,0 +1,662 @@
+Asslanment-1 A Job Ready Bootcamp in G++, DSA and 10T MysleG
+Input and output in € Language
+
+Write a program to print Mello Students on the scraen,
+Write a program to print Hello in the first line and Students in the second line.
+Write a program to print “MySirG” on the screen. (Remember to print in double quotes)
+
+WAP to find the area of the circle. Take radius of circle from user as input and print the
+result in below given format.
+Expected output format —
+“Area of circle is A having the radius R". Replace A with area
+& R with radius.
+
+WAP to calculate the length of String using printf function.
+
+WAP to print the name of the user in double quotes.
+Expected output format — “Helio . Amit Kumar"
+
+7. WAP to print “%d” on the screen.
+8. WAP to print “\n" on the screen.
+9 WAP to print “\\" on the screen.
+
+10. WAP to take date as an input in below given format and convert the date format and
+display the result as given below,
+User Input date format — ‘DOMMIYYYY" (27/1 1/2022)
+Output format -
+‘Day - DD, Month — MM Year -Yyyy" {Day — 27 Month - 07 . Year — 2022)
+
+11. WAP to take time as an input in below given format and convert the time format and
+display the result as given below,
+User Input date format — “HHMM"
+Output format - “1 iH hour and MM Minute”
+Example -
+"11:25" converted 10 “11 Hour and 25 Minute”
+
+12. Find output of below code:
+int main(){
+int x= printf(“ineuron”) ;
+printf(*%d" x);
+return 0;}
+
+
+Qperators in C Language
+
+Write a program to print unit digit of a given number
+
+Write a program to print a given number without its last digit.
+
+Write a program to swap values of two int variables
+
+Write a program to swap values of two int variables without using a third variable.
+Write a program to input a three-digit number and display the sum of the digits.
+Write a program which takes a character as an input and displays its ASCII code.
+Write a program to find the position of first 1 in LSB, }
+Write a program to check whether the given number is even or odd using a bitwise
+
+operator,
+Write a program to print size of an int, a float, a char and a double type variable
+
+10. Write a program to make the last digit of a number stored in a variable as zero.
+
+(Example - if x=2345 then make it x=2340)
+
+11. Write a program to input a number from the user and also input a digit. Append a
+
+digit in the number and print the resulting number. (Example - number=234 and
+digit=9 then the resulting number is 2349)
+
+12. Assume price of 1 USD is INR 76.23. Write a program to take the amount in INR and
+
+convert it into USD.
+
+13. Write a program lo take a three-digit number from the user and rotate its digits by
+
+one position towards the right.
+A
+
+18.
+
+Write a program to check whether a given number Is positive or non-positive.
+
+Write a program lo check whether a given number is divisible by § or not
+
+Write a program to check whether a given number Is an even number or an odd
+number.
+
+Write a program to check whether a given number is an even number or an odd
+number withoul using % operalor.
+
+Write a program lo check whether a given number is a three-digit number or not.
+Write a program lo print greater between two numbers. Print one number of both are
+the same.
+
+Write a program lo check whether roots of a given quadratic equation are real &
+distinct, real & equal or imaginary roots
+
+Write a program (o check whether a given year is a leap year or not.
+
+Write a program fo find the greatest among three given numbers. Print number ance
+if the greatest number appears two or three times.
+
+- Write a program which takes the cost price and selling price of a product from the
+
+user. Now calculate and print profit or loss percentage.
+
+- Write a program to take marks of 5 subjects from the user. Assume marks are given
+
+out of 100 and passing marks is 33. Now display whether the candidate passed the
+examination or failed.
+
+- Write a program to check whether a given alphabet is in uppercase or lowercase.
+
+. Write a program to check whether a given number is divisible by 3 and divisible by 2.
+- Write a program to check whether a given number is divisible by 7 or divisible by 3.
+
+. Write a program to check whether a given number is positive, negative or zero.
+
+. Write a program ta check whether a given character is an alphabet (uppercase), an
+
+alphabet (lower case), a digit or a special character.
+
+. Write a program which takes the length of the sides of a triangle as an input. Display
+
+whether the triangle is valid or not.
+Write a program which takes the month number as an input and display number of
+days in that month
+Assignment - 4 A Job Ready Bootcamp In C++, DSA and 10T MySIrG
+
+Iterative Control Statements
+
+Write a program to print MySirG 5 times on the screen
+
+Write a program to print the first 10 natural numbers.
+
+Write a program to print the first 10 natural numbers in reverse order
+Write a program to print the first 10 odd natural numbers
+
+Write a program to print the first 10 odd natural numbers in reverse order.
+Write a program to print the first 10 even natural numbers
+
+Write a program to print the first 10 even natural numbers in reverse order
+Write a program to print squares of the first 10 natural numbers
+
+Write a program to print cubes of the first 10 natural numbers
+
+10. Write a program lo print a table of 5.
+
+O®ND OB WN
+Assignment - § A Job Roady Bootcamp In C++, DSA and 10T MySirG
+
+More on Iterative Control Statements
+
+. Write a program lo print MySirG N times on the screen
+
+. Write a program lo print the first N natural numbers.
+
+. Write a program lo print the first N natural numbers in reverse order
+
+. Write a program to print the first N odd natural numbers
+
+. Write a program to print the first N odd natural numbers in reverse order.
+. Write a program to print the first N even natural numbers
+
+. Write a program to print the first N even natural numbers in reverse order
+. Write a program to print squares of the first N natural numbers
+
+. Write a program to print cubes of the first N natural numbers
+
+Write a program to print a table of N.
+Write a program to calculate sum of first N natural numbers
+
+Write a program to calculate sum of first N even natural numbers
+Write a program to calculate sum of first N odd natural numbers
+
+Write a program to calculate sum of squares of first N natural numbers
+Write a program to calculate sum of cubes of first N natural numbers
+Write a program to calculate factorial of a number
+
+Write a program to count digits in a given number
+
+Write a program to check whether a given number is a Prime number or
+not
+
+Write a program to calculate LCM of two numbers
+
+10. Write a program to reverse a given number
+
+1.
+2.
+3.
+4,
+5S.
+6.
+7.
+8.
+
+©
+Assignment -7 A Job Ready Bootcamp In C++, DSA and 10T MySIrG
+|
+Iterative Control Statements (Part - 2)
+
+1. Write a program to find the Nth term of the Fibonnaci series.
+
+2. Write a program to print first N terms of Fibonacci series’ )
+
+3. Write a program to check whether a given number is there in the Fibonaccl
+series or not.
+
+4. Write a program to calculate HCF of two numbers
+
+5. Write a program to check whether two given numbers are co-prime
+
+numbers or not
+
+Write a program to print all Prime numbers under 100
+
+Write a program to print all Prime numbers between two given numbers
+
+Write a program to find next Prime number of a given number
+
+Write a program to check whether a given number is an Armstrong number
+
+or not
+
+10. Write a program to print all Armstrong numbers under 1000
+
+J
+
+© oN
+Asstanment . §
+
+ef Ast Ready Bootcama in Gov, nga gag sp Mysirg
+Battorn Problomsy
+
+Wile a program to draw Ihe following patterns
+
+.
+
+LEY
+
+LR
+
+eww
+
+6
+RC
+
+A I DR
+I
+og
+
+-
+
+’
+EE EEL
+
+bE * AK
+kk kk
+x * ok
+
+» *
+Assignment - 9 A.lob Ready Bootcamp in C+, DSA ang 107 MySirG
+
+[=]
+
+~
+
+10.
+
+Switch Case Rrobloms
+
+- Write a program which lakes th ;
+
+~ J
+¢ month number as an input i
+number of days in (hat month, pean depiay
+
+Write a menu driven pro
+a. Addition
+b. Subtraction
+¢. Multiplication °
+d. Division
+e. Exi
+
+Write a program which takes the day number of a week and displays a
+unique greeting message for the day.
+
+gram with the following oplions:
+[
+
+. Write a menu driven program with the following options:
+
+a. Check whether a given set of three numbers are lengths of an
+isosceles triangle or not
+
+b. Check whether a given set of three numbers are lengths of sides of
+aright angled triangle or not
+
+c. Check whelher a given set of three numbers are equilateral triangle
+ar not
+
+d. Exit
+
+- Convert the following if-else-if construct into switch case:
+
+iffvar == 1)
+
+System.out.printin{"good");
+else iffvar == 2)
+
+System.out. printin("better”);
+else iffvar == 3)
+
+System.out printin("bes!”);
+else
+
+System.aut. printin{ invalid”);
+
+. Program to check whether a year is a leap year or not. Using switch
+
+slatement
+
+. Program to take the value from the user as input electricity unit charges
+
+and calculate total electricily bill according lo the given condition . Using
+the swilch statement
+
+For the first 50 unils Rs. 0.50funil
+For the nex! 100 units Rs. 0.75/unit
+For the next 100 units Rs. 1.20/unit
+For units above 250 Rs. 1.50/unit
+An addiional surcharge ol 20% is added lo the bill.
+Program lo convert a positive number into a negative number and negalive
+number inlo a positive number using a swilch statement.
+Program lo Convert even number into its upper nearest odd number
+i atemenl.
+om 1o find all roots of a quadralic equation using switch case
+Assignment - 10
+
+Noose w=
+
+&@
+
+9.
+
+Functions In C Lanquage
+
+Write a function 1o calculate the area of a circle, (TSRS)
+
+Write a function to calculate simple interest. (TSRS)
+
+Write @ function 1o check whather a give number is even or odd. Return 1 if the
+number is even, otherwise return 0. (TSRS)
+
+Write a function ta print first N natural numbers (TSRN)
+
+Write a function to print first N odd natural numbers. (TSRN)
+
+Write a function to calculate the factorial of a number. (TSRS)
+
+Write a function to calculate the number of combinations one can make from n items
+and 1 selected at atime. (TSRS)
+
+Write a function to calculate the number of arrangements one can make from n items
+and r selected at a time. (TSRS)
+
+Write : function to check whether a given number contains a given digit or not.
+(TSRS)
+
+10. Write a function to print all prime factors of a given number. For example, if the
+
+number is 36 then your result should be 2, 2, 3, 3. (TSRN)
+Assignment-11 A Job Ready Bootcamp in Cs+, DSA and 10T
+
+More on functions in C Language
+
+Write a function to calculate LCM of two numbers. (TSRS)
+
+Write a function to calculate HCF of two numbers. (TSRS)
+
+Write a function to check whether a given number is Prime or net. (TSRS)
+
+Write a tunction lo find the next prime number of a given number. (TSRS)
+
+Write a function to print first N prime numbers (TSRN)
+
+Write a function to print all Prime numbers between two given numbers. (TSRN)
+Write a function to print first N terms of Fibonacci series (TSRN)
+
+Write a function to print PASCAL Triangle. {TSRN) ’ J
+Write a program in C to find the square of any number using the function.
+
+. Write a program in C to find the sum of the series 1! /1+21/2+3!/3+4!/4451/5 using the
+function.
+
+2omNonsELN=
+
+o
+
+1. Write a recursive function to print first N natural numbers
+
+2. Write a recursive function to print first N natural numbers in reverse order
+
+3. Write a recursive function to print first N odd natural numbers
+
+4. Write a recursive function to print first N odd natural dumbers in’reverse order
+5. Wrile a recursive function to print first N even natural numbers
+
+6. Write a recursive function to print first N even natural numbers in reverse order
+7. Write a recursive function to print squares of first N natural numbers
+
+8. Write a recursive function to print binary of a given decimal number
+
+9. Write a recursive function to print octal of a given decimal number
+
+10. Write a recursive function to print reverse of a given number
+1
+
+2
+3
+4.
+5.
+6.
+7
+8
+9
+
+10.
+
+‘13 A.Job Ready Bootcamp In C++, DSA and 10T MysirG
+
+Write a recursive function to calculate sum of first N natural numbers
+
+Write a recursive function to calculate sym of first N odd natural numbers
+
+Write a recursive function to calculate sum of first N odd naturalnumbers
+
+Write a recursive function to calculate sum of squares of first n natural numbers
+Write a recursive function to calculate sum of digits of a given number
+
+Write a recursive function to calculate factorial of a given number
+
+Write a recursive function to calculate HGF of two numbers
+
+Write a recursive function to print first N terms of Fibonacci series
+
+Write a program in C to count the digits of a given number using recursion.
+Write a program in C to calculate the power of any number using recursion.
+Array In C Language
+
+. Write a program to calculate the sum of numbers stored In an array of size 10. Take
+array values from the user.
+
+2. Write a program lo calculate the average of numbers stored In an array of size 10,
+Take array values from the user.
+
+Write a program to calculate the sum of all even numbers and sum of all odd
+
+numbers, which are stored in an array of size 10, Take array values from the user,
+4. Write a program to find the greatest number stored in an array of size 10. Take array
+values from the user.
+
+Write a program 10 find the smallest number stored in an array of size 10. Take array
+values from the user,
+
+Write a program to sort elements of an array of size 10. Take array values from the
+user,
+
+Write a program to find second largest in an array. Take array values from the user.
+8. Write a program to fi
+
+nd the second smallest number in an array.Take array values
+from the user. )
+9. Write a program in C to read n number of values in an array and display it in reverse
+order. Take array values from the user.
+
+10. Write a program in C to copy the elements of one array into another array.Take amay
+values from the user.
+oll adi adm
+
+oN oo ou
+
+Array and Functions In C Language
+
+Write a function to find the greatest number from the given array of any size. (TSRS)
+Write a function to find the smallest number from the given array of any size. (TSRS)
+Write a function to sort an array of any size. (TSRS) p
+
+Write a function to rotate an array by n position in d direction. The d is an indicative
+value for left or right. (For example, if array of size § is [32, 29, 40, 12, 70]; nis 2 and
+dis lef, then the resulting array after left rotation 2 times is (40, 12, 70, 32, 29] )
+Write a function to lind the first occurrence of adjacent duplicate values in the array.
+Function has to return the value of the element,
+Write a function in C to read n number of values in an array and display it in reverse
+order.
+
+Write a function in C to count a total number of duplicate elements in an array.
+
+Write a function in C to print all unique elements in an array.
+
+Write a function in C to merge two arrays of the same size sorted in descending
+order.
+
+10. Write a function in C to count the frequency of each element of an array.
+Assignment: 16 A Job Ready Bootcamp in C++, DSA and IOT.
+
+Multi-Dimensional Array in C Language
+
+_ Write a program to calculate the sum of two malrices each of order 3x3.
+
+_ Write a program to calculate the product of two matrices each of order 3x3.
+_ Write a program in C to find the Iranspose of a given matrix.
+
+_ Write a program in C to find the sum of right diagonals of a matrix.
+
+_ Write a program in C 10 find the sum of rows and columns of a Matrix.
+. Write a program in C to print or display the lower triangular of a given matrix.
+. Write a program in C to print or display an upper triangular matrix.
+
+MysirG
+
+Write a program in C to accept a matrix and determine whether It Is a sparse matrix.
+
+1
+2
+3
+4
+5. Writa a program in C to find tha sum of left diagonals of a matrix.
+6
+7
+8
+9
+1
+
+0. Write a program in C to find the row with maximum number of 1s.
+assignment - 19 A Job Ready Bootcamp in C++, DSA and IOT.
+
+© NOD
+
+MySirG
+Handling multiple Strings in C Language
+
+Write a program to tind the number of vowels in each of the 5 strings stored in two
+dimensional arrays, taken {rom the user.
+
+Write a program to sort 10 city names stored in two dimensional arrays, taken from
+the user.
+Write a program to read and display a 2D array of strings in C language.
+Write a program to search a string in the list of strings.
+Suppose we have a list of email addresses, check whether all email addresses have
+‘@' in it. Print the odd email oul.
+Write a program to print the strings which are palindrome in the list of strings.
+From the list of 1P addresses, check whether all ip addresses are valid.
+Given a list of words followed by two words, the task is to find the minimum distance
+between the given two words in the list of words.
+(Example © s = {“the” “quick”, "brown" "fox" ,"quick}
+
+word? = “the”, word2 = “fox”, QUTPUT : 1) )
+Write a program that asks the user to enter a username. If the username entered is
+one of the names in the list then the user is allowed to calculate the factorial of a
+number. Otherwise, an error message is displayed
+
+10. Create an authentication system. It should be menu driven.
+ND; EWN
+
+8.
+9.
+
+Assignment -20  A.lob Ready Bootcamp in C++, DSA and IOT  MySirG
+
+Bolnters
+
+Write a function lo swap values of twa in variables of calling function. (TSRS)
+
+Write a function to swap strings of two char arrays of calling functions. (TSRS)
+Write a function to sort an array of int type values. [ void sort{int *ptr,int size); ]
+
+Write a program in C to demonstrate how to handle the pointers in the program.
+Write a program to find the maximum number between two numbers using a pointer
+Write a program lo calculate the length of the string using a pointer
+
+Write a program to count the number of vowels and consonants in a string using a
+pointer.
+
+Write a program to compute the sum of all elements in an array using pointers.
+Write a program fo print the elements of an array in reverse order.
+
+10. Write a program 1o print a string in reverse using a pointer
+No
+
+230 ®~
+
+Assignment 21 A Job Ready Bootcamp In G++, DSA and 10T MySIrG
+
+Structure
+
+Define a structure Employee with member variables id, name, salary
+
+. Write a function to take input employee data from the user. [ Refer structure from
+
+question 1)
+
+Write a function to display employee data. [ Refer structure from question 1]
+
+Write a function to find the highest salary employee from a given array of 10
+employees. [| Refer structure from question 1)
+
+Write a function to sort employees according to their salaries [ refer structure from
+question 1]
+
+Wiite a function to sort employees according to their names [refer structure from
+question 1]
+
+Write a program to calculate the difference between two time periods.
+
+Write a program to store information of 10 students and display them using structure.
+Write a program to store information of n students and display them using structure
+
+. Write a program to enter the marks of 5 students in Chemistry, Mathematics and
+
+Physics (each out of 100) using a structure named Marks having elements roll no.,
+name, chem_marks, maths_marks and phy_marks and then display the percentage
+of each student.
+© ®No
+
+10.
+
+Assignment -22 ~~ A.Job Ready Bootcamp In C++, DSA and OT  MySirG
+DMA
+
+Define a function lo input variable length string and store it in an array without
+memory wastage.
+Write a program to ask the user to input a number of dala values he would like to
+
+enter then create an array dynamically to accommodate the data values. Now take
+
+the input from the user and display the average of data values.
+Write a program to calculate the sum of n numbers entered by the user using malloc
+
+and free.
+Write a program to input and print text usi
+
+Write a program to read a one dimensional
+inputted array elements using dynamic memory allocation.
+Write a program in C to find the largest element using Dynamic
+Write a program to demonstrate memory leak in C.
+
+Write a program to demonstrate dangling pointers in C.
+
+Write a program to allocate memory dynamically of the size in bytes entered by the
+user. Also handle the case when memory allocation is failed.
+
+Find out the maximum and minimum from an array using dynamic
+
+inC.
+
+ng dynamic memory allocation.
+| array, print sum of all elements along with
+
+Memory Allocation.
+
+memory allocation

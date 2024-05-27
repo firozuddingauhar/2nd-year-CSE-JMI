@@ -1,0 +1,4 @@
+Name : Age : Address
+firoz : 20 : delhi
+harshit : 19 : jk
+hammad : 21 : noida
